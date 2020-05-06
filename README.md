@@ -26,7 +26,7 @@ Something like the "Hey, I've recreated the interface from [an famous product]".
 #### codebin - [link](https://github.com/frvs/codebin) 
 A unofficial [Hastebin](https://hastebin.com/about.md) fork using React to add some features.
 #### Validator.NET - [link](https://github.com/frvs/Validator.NET)  
-###### Note: this project was stopped because (flunt)[https://github.com/andrebaltieri/flunt] do the same and better.
+###### Note: this project was stopped because Flunt (https://github.com/andrebaltieri/flunt) do the same and better.
 An [Notification pattern](https://martinfowler.com/eaaDev/Notification.html) implementation for .NET Standard 1.0 (compatible to .NET 4.5 or higher version).  
 Notification pattern is a lightweight alternative to error exceptions in C#. 
 
